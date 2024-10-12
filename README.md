@@ -12,7 +12,7 @@ This is a simple JavaScript-based web application that uses the Web Speech API t
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Ayushmaan7/speech-to-text-demo-using-JS
+git clone https://github.com/Ayushmaan7/speech-to-text-demo-using-JS.git
 ```
 
 2. Open the `index.html` file in your browser (preferably Chrome or Edge).
